@@ -1,0 +1,9 @@
+# Streamlit Cloud Compatible Requirements
+streamlit
+plotly
+pandas
+numpy
+folium
+streamlit-folium
+networkx
+requests
