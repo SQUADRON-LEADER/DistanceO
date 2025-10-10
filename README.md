@@ -88,6 +88,8 @@ Experience DistanceO visually! 🎨
 
 <img width="1919" height="864" alt="Screenshot 2025-10-09 162726" src="https://github.com/user-attachments/assets/ef31a676-5c17-40ed-acc5-e22bcbd42612" />
 
+<img width="1917" height="874" alt="Screenshot 2025-10-09 162750" src="https://github.com/user-attachments/assets/ba64d2eb-cf66-464e-aefe-d730d878ed27" />
+
 > These visuals showcase the intuitive and interactive nature of DistanceO — from input to visualization.
 
 ---
