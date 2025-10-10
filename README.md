@@ -87,7 +87,6 @@ Open 👉 `http://localhost:8501` in your browser to explore the app.
 Experience DistanceO visually! 🎨
 
 
-
 > These visuals showcase the intuitive and interactive nature of DistanceO — from input to visualization.
 
 ---
