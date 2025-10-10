@@ -86,21 +86,7 @@ Open 👉 `http://localhost:8501` in your browser to explore the app.
 
 Experience DistanceO visually! 🎨
 
-### 🌐 Main Interface
 
-![Main Interface](assets/screenshots/main-ui.png)
-
-### 🧮 Distance Calculation Result
-
-![Results](assets/screenshots/result.png)
-
-### 📊 Visualization Section
-
-![Visualization](assets/screenshots/visualization.png)
-
-### 💻 Dashboard View
-
-![Dashboard](assets/screenshots/dashboard.png)
 
 > These visuals showcase the intuitive and interactive nature of DistanceO — from input to visualization.
 
